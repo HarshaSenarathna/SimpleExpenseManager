@@ -1,0 +1,4 @@
+#Tue Dec 13 08:23:01 IST 2022
+base.0=C\:\\Users\\USER\\Desktop\\SimpleExcangeManager\\SimpleExpenseManager-master\\SimpleExpenseManager\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
